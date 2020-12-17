@@ -1,0 +1,160 @@
+/***********************TAG SELECTORS**************************/
+body {
+  background-color: #e8e8e8;
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 3.175rem;
+  line-height: 2;
+  color: #9ad3bc;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #9ad3bc;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #393e46;
+}
+
+a {
+  color: #9ad3bc;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e8e8e8;
+}
+
+hr {
+  border: 6px dotted #393e46;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+  font-size: 1.3rem;
+}
+
+/*************************CLASSES SELECTORS*********************/
+.top-container {
+  background-color: #222831;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+.middle-container {
+  margin-top: 20px;
+}
+
+.bottom-container {
+  background-color: #222831;
+  margin-top: 50px;
+  margin-bottom: 0;
+  padding: 50px 0 20px;
+}
+
+.boxingGloves {
+  position: absolute;
+  left: 15%;
+  bottom: 10%;
+  height: 80px;
+}
+
+.camera {
+  position: absolute;
+  height: 80px;
+  right: 15%;
+  bottom: 10%;
+}
+
+.openBook {
+  position: absolute;
+  right: 20%;
+  top: 10%;
+  height: 80px;
+}
+
+.joystick {
+  position: absolute;
+  left: 20%;
+  top: 10%;
+  height: 80px;
+}
+
+.profile {
+  width: 60%;
+  margin: 50px auto;
+}
+
+.profile p {
+  text-align: left;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.digital-mkt {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.seo {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: 100;
+  padding: 16px;
+  background-color: #9ad3bc;
+  border: solid #9ad3bc 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.legal {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.75rem;
+  color: #eaf6f6;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.contact {
+  width: 50%;
+  margin: 30px auto 40px;
+}
